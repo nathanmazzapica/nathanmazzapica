@@ -21,4 +21,6 @@ Curiosity driven and passionate software engineer focused on building scalable b
 ---
 [![](https://visitcount.itsvg.in/api?id=nathanmazzapica&icon=0&color=0)](https://visitcount.itsvg.in)
 
+My most used language is a lie... I almost never use python.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
