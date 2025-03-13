@@ -1,8 +1,5 @@
 <h3 align="center">A curiosity driven student and Backend Engineer</h3>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanmazzapica&label=Profile%20views&color=0e75b6&style=flat" alt="nathanmazzapica" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathanmazzapica" alt="nathanmazzapica" /></a> </p>
 
 - 🔭 I’m currently working on [Rewriting Pet Daisy](https://github.com/nathanmazzapica/pet-henry-3)
 
