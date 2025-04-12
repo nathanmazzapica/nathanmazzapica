@@ -1,11 +1,9 @@
 <h3 align="center">A curiosity driven student and Backend Engineer</h3>
 <hr>
 
-- 🔭 I’m currently working on [Rewriting Pet Daisy](https://github.com/nathanmazzapica/pet-henry-3)
+- 🔭 I’m currently working on [Refactoring Pet Daisy](https://github.com/nathanmazzapica/pet-daisy)
 
 - 🌱 I’m currently learning **about concurrency and developing scalable backend architecture**
-
-- 🤝 I’m looking for a review on [Pet Daisy's old code](https://github.com/nathanmazzapica/pet-daisy/tree/refactor)
 
 - 👨‍💻 All of my projects are available at [pending...](pending...)
 
