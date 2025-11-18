@@ -1,7 +1,7 @@
 <h3 align="center">A curiosity driven student and Backend Engineer</h3>
 <hr>
 
-- 🔭 I’m currently working on [a realtime lobby system demonstrated through tic-tac-toe](https://github.com/nathanmazzapica/tic-tac-two)
+- 🔭 I’m currently working on [an online petting zoo](https://github.com/nathanmazzapica/pet-everyone)
 
 - 🌱 I’m currently learning **about concurrency and developing scalable backend architecture**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [pending...](pending...)
 
-- 💬 Ask me about **Pet Daisy, the gym, and WebSockets**
+- 💬 Ask me about **Pet Daisy or the gym**
 
 - 📫 How to reach me **email@nathanmazzapica.com**
 
