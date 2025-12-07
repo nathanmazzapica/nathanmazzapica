@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an online petting zoo](https://github.com/nathanmazzapica/pet-everyone)
 
-- 🌱 I’m currently learning **about concurrency and developing scalable backend architecture**
+- 🌱 I’m currently learning about **concurrency and site reliability under load**
 
 - 👨‍💻 All of my projects are available at [pending...](pending...)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [pending...](pending...)
 
-- ⚡ Fun fact **A psychic once told me I'd be 7 feet tall**
+- ⚡ Fun fact **putting an HTTP request in an infinite loop changed my life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
