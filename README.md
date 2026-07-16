@@ -1,7 +1,7 @@
 <h3 align="center">A curiosity driven student and Backend Engineer</h3>
 <hr>
 
-- 🔭 I’m currently working on [an online petting zoo](https://github.com/nathanmazzapica/pet-everyone)
+- 🔭 I’m currently working on learning electronics and embedded development
 
 - 🌱 I’m currently learning about **concurrency and site reliability under load**
 
